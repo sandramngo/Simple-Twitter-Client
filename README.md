@@ -21,9 +21,6 @@ Completed user stories:
  * [x] Advanced: User can select "reply" from detail view to respond to a tweet
  * [x] Advanced: Improve the user interface and theme the app to feel "twitter branded"
  
-Notes:
-Since I was out of town for most days last week, I didn't have as much time as I did for the other projects. I'm working on the persistence of tweets now but I probably won't finish in time for the deadline.
-
 Walkthrough of all user stories:
 
 ![Video Walkthrough] 
